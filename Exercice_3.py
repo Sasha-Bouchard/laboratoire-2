@@ -4,8 +4,9 @@ def fonction (a,b):
  return c
 print( fonction(3,4) )"""
 
-
+#Fonction qui additionne 2 entrées
 def fonction(a, b):
     c = a + b
-    return(c)
+    return c
+#Example d'utilisation
 print(fonction(3, 4))

@@ -1,4 +1,4 @@
-#Programme qui affiche le type de variable arbitraires
+#Programme qui affiche le type de variables arbitraires
 x = 10
 y = 3.14
 z = "Bonjour"
